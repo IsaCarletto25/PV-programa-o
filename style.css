@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+:root{
+    --cor-de-fundo: #1E1E1E;
+    --verde: #6FFF57;
+    --branco: #FFFFFF;
+    --botao-ativo: #FF00FF;
+    --botao-inativo: rgba(255, 0, 255, 0.5);
+    --texto-fundo: rgba(255, 0, 255, 0.21);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: "Anta", sans-serif;
+
+  }
